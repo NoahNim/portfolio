@@ -14,10 +14,6 @@ li {
   font-weight: bold;
 }
 
-.container {
-  text-align: center;
-}
-
 #home-header {
   padding-left: 350px;
 }
@@ -128,10 +124,23 @@ li {
   flex-direction: row;
 }
 
+.container {
+  text-align: center;
+}
 
-.img {
+.main-img {
   width: 400px;
   height: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.other-img {
+  float: right;
+  width: 100px;
+  height: 250px;
   display: block;
   margin-left: auto;
   margin-right: auto;
