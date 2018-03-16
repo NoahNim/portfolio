@@ -39,12 +39,20 @@ body {
   background-color: #e0fff8;
 }
 
-#my-top-nav {
+.my-top-nav {
   margin-bottom: 10px;
+  background-color: #89c47d;
+  border-style: groove;
+  border-color: #7bd887;
+  font-weight: bold;
 }
 
-#my-bottom-nav {
+.my-bottom-nav {
   margin-top: 20px;
+  background-color: #89c47d;
+  border-style: groove;
+  border-color: #7bd887;
+  font-weight: bold;
 }
 
 .nav {
@@ -60,6 +68,7 @@ body {
 .navbar-nav {
   flex-direction: row;
 }
+
 
 .img {
   width: 400px;
