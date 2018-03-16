@@ -8,6 +8,17 @@ body {
 
 #projects {
   text-align: center;
+  margin-top: 50px;
+}
+
+#project-list {
+  margin-top: 40px;
+}
+
+#gitproj {
+  background-color: #ffce66;
+  border-style: double;
+  border-color: #ffe2a5;
 }
 
 #left-list {
@@ -19,9 +30,9 @@ body {
 
 #right-list {
   float: right;
-  background-color: #b5ccff;
+  background-color: #ffd6d6;
   border-style: ridge;
-  border-color: #b5ccff;
+  border-color: #ffd6d6;
 }
 
 .nav {
