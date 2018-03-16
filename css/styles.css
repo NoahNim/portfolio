@@ -146,3 +146,7 @@ li {
   margin-right: auto;
   width: 50%;
 }
+
+.card-img-top {
+  width: 18rem;
+}
