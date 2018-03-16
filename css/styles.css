@@ -147,6 +147,14 @@ li {
   width: 50%;
 }
 
+.my-card {
+  margin-top: 20px;
+}
+
+.card {
+  background-color: #f2d6ff;
+}
+
 .card-img-top {
   width: 18rem;
 }
