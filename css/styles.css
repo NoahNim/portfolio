@@ -48,9 +48,42 @@ body {
   font-size: 20px;
 }
 
+#pro-info {
+  background-color: #b5effc;
+  border-style: solid;
+  border-color: #b5effc;
+}
+
 #experience li {
   font-weight: normal;
 }
+
+#experience {
+  background-color: #42a6bc;
+}
+
+#education {
+  background-color: #81d1a8;
+}
+
+#row-hobby {
+  background-color: #ffc3a3;
+  border-style: solid;
+  border-color: #ffc3a3;
+}
+
+#hobbies {
+  background-color: #ed8240;
+  border-style: solid;
+  border-color: #ed8240;
+}
+
+#skills {
+  background-color: #aa69bc;
+  border-style: #aa69bc;
+  border-color: #aa69bc;
+}
+
 
 .my-top-nav {
   margin-bottom: 10px;
