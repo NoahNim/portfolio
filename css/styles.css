@@ -2,6 +2,10 @@ body {
   background-color: #e0ffe1;
 }
 
+#home-header {
+  padding-left: 350px;
+}
+
 #projects {
   text-align: center;
 }
@@ -9,10 +13,15 @@ body {
 #left-list {
   float: left;
   background-color: #feffcc;
+  border-style: ridge;
+  border-color: #feffcc;
 }
 
-#home-header {
-  padding-left: 350px;
+#right-list {
+  float: right;
+  background-color: #b5ccff;
+  border-style: ridge;
+  border-color: #b5ccff;
 }
 
 .nav {
