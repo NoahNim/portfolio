@@ -9,7 +9,10 @@ with a biography, my education, work experience, hobbies, and skills.
 ### Set=Up
 Either download and open the .html files, or goto the github pages location.
 
-#### Technology
+#### Github Pages Link
+https://noahnim.github.io/portfolio/
+
+##### Technology
 HTML
 CSS
 Git
@@ -17,5 +20,5 @@ Atom
 Chrome
 MacOSX
 
-##### Copyright
+###### Copyright
 Copyright Noah Medoff 2018
