@@ -10,7 +10,7 @@ with a biography, my education, work experience, hobbies, and skills.
 Either download and open the .html files, or goto the github pages location.
 
 #### Github Pages Link
-https://noahnim.github.io/portfolio/
+https://noahnim.github.io/portfolio/index.html
 
 ##### Technology
 HTML
