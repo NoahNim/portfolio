@@ -48,6 +48,10 @@ body {
   font-size: 20px;
 }
 
+#experience li {
+  font-weight: normal;
+}
+
 .my-top-nav {
   margin-bottom: 10px;
   background-color: #89c47d;
