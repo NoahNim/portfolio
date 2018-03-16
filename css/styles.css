@@ -2,6 +2,18 @@ body {
   background-color: #e0ffe1;
 }
 
+ul {
+  list-style-type: none;
+}
+
+p {
+  font-weight: normal;
+}
+
+li {
+  font-weight: bold;
+}
+
 .container {
   text-align: center;
 }
@@ -54,10 +66,6 @@ body {
   border-color: #b5effc;
 }
 
-#experience li {
-  font-weight: normal;
-}
-
 #experience {
   background-color: #42a6bc;
 }
@@ -84,6 +92,9 @@ body {
   border-color: #aa69bc;
 }
 
+#epicodus {
+  color: #db3232;
+}
 
 .my-top-nav {
   margin-bottom: 10px;
