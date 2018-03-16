@@ -2,6 +2,10 @@ body {
   background-color: #e0ffe1;
 }
 
+.container {
+  text-align: center;
+}
+
 #home-header {
   padding-left: 350px;
 }
@@ -37,6 +41,11 @@ body {
 
 #jumbotron-home {
   background-color: #e0fff8;
+}
+
+#about-header {
+  font-weight: bolder;
+  font-size: 20px;
 }
 
 .my-top-nav {
