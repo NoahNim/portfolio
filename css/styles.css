@@ -35,6 +35,18 @@ body {
   border-color: #ffd6d6;
 }
 
+#jumbotron-home {
+  background-color: #e0fff8;
+}
+
+#my-top-nav {
+  margin-bottom: 10px;
+}
+
+#my-bottom-nav {
+  margin-top: 20px;
+}
+
 .nav {
   padding-left: 30px;
   padding-right: 10px;
@@ -45,6 +57,10 @@ body {
   padding-right: 10px;
 }
 
+.navbar-nav {
+  flex-direction: row;
+}
+
 .img {
   width: 400px;
   height: 600px;
@@ -52,8 +68,4 @@ body {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-}
-
-#jumbotron-home {
-  background-color: #e0fff8;
 }
