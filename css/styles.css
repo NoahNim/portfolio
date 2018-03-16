@@ -1,3 +1,20 @@
+body {
+  background-color: #e0ffe1;
+}
+
+#projects {
+  text-align: center;
+}
+
+#left-list {
+  float: left;
+  background-color: #feffcc;
+}
+
+#home-header {
+  padding-left: 350px;
+}
+
 .nav {
   padding-left: 30px;
   padding-right: 10px;
@@ -17,6 +34,6 @@
   width: 50%;
 }
 
-#projects {
-  text-align: center;
+#jumbotron-home {
+  background-color: #e0fff8;
 }
