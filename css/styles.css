@@ -94,6 +94,11 @@ li {
   color: #db3232;
 }
 
+#home-card {
+  background-color: #190808
+  color: white;
+}
+
 .my-top-nav {
   margin-bottom: 10px;
   background-color: #89c47d;
@@ -147,12 +152,12 @@ li {
   width: 50%;
 }
 
-.my-card {
+.bio-card {
   margin-top: 20px;
 }
 
 .card {
-  background-color: #f2d6ff;
+  background-color: #c99595
 }
 
 .card-img-top {
